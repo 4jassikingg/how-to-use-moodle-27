@@ -1,0 +1,88 @@
+# Preface
+
+## What is Moodle
+Moodle is an open source Learning Management System (LMS) that universities, community colleges, K–12 schools, businesses, and even individual instructors use to add
+web technology to their courses. More than 30,000 educational organizations around the world currently use Moodle to deliver online courses and to supplement traditional face-to-face courses. Moodle is available for free on the Web (http://www.moodle.org), so anyone can download and install it. More on that later in this preface.
+
+The name Moodle has two meanings. First, it’s an acronym (what isn’t these days?) for Modular Object-Oriented Dynamic Learning Environment. Moodle is also a verb that
+describes the process of lazily meandering through something, doing things as it occurs to you to do them, an enjoyable tinkering that often leads to insight and creativity.
+
+Moodle was created by Martin Dougiamas, a computer scientist and educator who spent time supporting a LMS at a university in Perth, Australia. He grew frustrated
+with the system and learned that engineers, not educators, had built it. Martin realized that a system built by someone who started with the educational process, rather than an engineering process, would be infinitely better than what he had to work with. He put his postgraduate degrees in Education and Computer Science to work and started developing Moodle as an alternative. Martin now works on Moodle full-time. A community of dedicated open source developers from around the world work with him in a collaborative effort to make Moodle the best LMS available. Martin lives in Australia with his wife, daughter, and son.
+
+
+## Who Is This Book For?
+This book is for people who want to teach a course using Moodle. You can use Moodle to teach a fully online course or to supplement a face-to-face course in a traditional
+setting. It doesn’t matter if you teach at a primary school, a secondary school, in higher education, or in a corporate setting; you can use the tools and features available in Moodle to create an effective class. 
+
+
+## Prerequisites—What Do You Need Before You Start?
+
+To use this book, you will need the following:
+
+- Moodle installed and configured on a server. You can download Moodle via http://download.moodle.org/ and can find installation instructions in the Moodle documentation at http://docs.moodle.org/en/Installing_Moodle.
+
+
+	OR 
+
+	You can also install Moodle on your personal computer by first downloading the latest Moodle release from https://download.moodle.org/releases/latest/ and then installing it as per the following instructions:
+
+	- Moodle on windows:
+		- https://docs.moodle.org/27/en/Windows_installation_using_XAMPP
+		- Complete Installation  package: https://docs.moodle.org/27/en/Complete_install_packages_for_Windows
+	- Moodle on MAC:
+		- https://docs.moodle.org/27/en/Step_by_Step_Installation_on_a_Mac_OS_X_Server
+		- Moodle on Mac OS X server: http://download.moodle.org/macosx/
+- A computer with Internet access.
+- Latest web browser such as Internet Explorer 9 or above, Mozilla Firefox 25 or above, Google Chrome 30 or above, or Safari 6 or above.
+- Teacher access to a course on Moodle, or administrator access to the Moodle site.
+
+
+## How to Use This Book
+This book is written for instructors learning how to use Moodle. It’s not just a how-to manual, however. Using Moodle won’t make your course better by itself. Only by applying effective educational practices can you truly leverage the power of Moodle.
+
+The Moodle interface can be customized a great deal. The descriptions and screenshots in this book illustrate the default interface without any customization. If you have
+changed  the  order  of  the  blocks  in  your  course  or  if  the  system  administrator  has changed the look and feel of the main interface, your system will look different from the screenshots here.
+
+Chapter 1 discusses what Learning Management Systems have to offer and what features makes Moodle special for eLearning.
+
+Chapter 2 pools all of the disparate tools into a comprehensive whole and shows some of the creative ways in which teachers can use Moodle.
+
+Chapter 3 gets us started using Moodle. We’ll sign up for an account, review the basic interface, get used to some of the conventions, and start a course.
+
+Chapter 4 covers how to add static content (named as resource in Moodle) to your course.
+
+Chapter 5 delves into Learning Management, including understanding and using roles, arranging students into groups, and how to obtain reports of student activity.
+
+Chapter 6 gets us familiarized with the text editors in Moodle.
+
+Chapter 7 to 18 covers individual tools in the basic Moodle package. We’ll discuss how and when to use forums, hold chat sessions, send messages, give quizzes, set assignments, develop shared glossaries and databases, create pathed lessons, collaboratively develop web pages, create blogs, set up surveys and polls, and record student grades. Each chapter covers how to add the tool to your course, discusses the options available, and gives you some creative ideas for effectively using the tool in your class.
+
+Chapter 19 covers how to administer an entire Moodle site. A system administrator usually handles these functions, but if you’re on your own, there’s a lot of power behind the curtain.
+
+You can use this book in a couple of different ways. First, you can read it cover to cover. Hopefully, you’ll find it so compelling that you won’t be able to put it down until you’ve finished it. Or you can use it like a reference manual. The beginning of each tool chapter covers the how-to’s and the options. If you get lost, flip to the appropriate chapter and take it from the beginning.
+
+### **Happy Moodling!!!** ###
+
+Conventions used in this book
+
+The following typographical conventions are used in this book:
+
+- *Italic*
+: Indicates new terms, URLs, email addresses, filenames, and file extensions.
+
+- Constant width
+: Used for program listings, as well as within paragraphs to refer to program elements such as variable or function names, databases, data types, environment variables, statements, and keywords.
+
+- ![](images/tip-icon.jpg)
+: Used for significant tip, suggestion or general note.
+
+## Acknowledgments
+
+*Jaswinder Singh*: I am indebted to the Jason Cole & Helen Foster for writing the Using Moodle book. The work in this book is based on the Book Using Moodle 2nd Edition and Moodle documentation. I am also indebted to the whole Moodle Community for creating such a nice LMS which is so much popular and especially Martin Dougiamas for creating it. This book is a work of the whole Moodle community who has written the documentation all over the years. 
+
+I am also indebted to Mr. Jai Gupta at Vidya Mantra EduSystems Pvt. Ltd.and Mr. Vikram Solia at Ballistic Learning for introducing me to Moodle and encouraging me to write this book.
+
+This is my effort to pay the community my small bit of share.
+
+

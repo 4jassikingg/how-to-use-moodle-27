@@ -1,0 +1,15 @@
+# Moodle Support
+
+
+Hopefully you won’t have any problems with your Moodle site. However, just in case, you do, Moodle support is available in the following ways:
+
+- Moodle Documentation: [http://docs.moodle.org](http://docs.moodle.org)
+- Moodle Community Forums: [https://moodle.org/course/](https://moodle.org/course/)
+- Commercial Support and training: [http://moodle.com/partners/](http://moodle.com/partners/)
+
+
+C> **Happy Moodling!!!**
+
+
+
+
